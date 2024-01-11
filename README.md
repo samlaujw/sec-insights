@@ -9,7 +9,7 @@ SEC Insights uses the Retrieval Augmented Generation (RAG) capabilities of [Llam
 
 You can start using the application now at [secinsights.ai](https://www.secinsights.ai/)
 
-You can also check out our [End-to-End tutorial guide on YouTube](https://youtu.be/2O52Tfj79T4?si=CYUcaBkc9P9g_m0P) for this project! This video covers product features, system architecture, development environment setup, and how to use this application with your own custom documents *(beyond just SEC filings!)*. The video has chapters so you can skip to the section most relevant to you.
+You can also check out our [End-to-End tutorial guide on YouTube](https://youtu.be/2O52Tfj79T4?si=CYUcaBkc9P9g_m0P) for this project. This video covers product features, system architecture, development environment setup, and how to use this application with your own custom documents *(beyond just SEC filings!)*. The video has chapters so you can skip to the section most relevant to you.
 
 ## Why did we make this? 🤔
 As RAG applications look to move increasingly from prototype to production, we thought our developer community would find value in having a complete example of a working real-world RAG application.
